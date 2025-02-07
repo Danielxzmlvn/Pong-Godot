@@ -9,4 +9,4 @@ Simple AI for the opposing paddle
 
 Basic UI elements for start.
 
-It main contain certain bugs, of course report everyone please.
+It main contain certain bugs, of course report every bug please.
