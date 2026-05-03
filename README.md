@@ -9,7 +9,7 @@ Simple AI for the opposing paddle
 
 Basic UI elements for start.
 
-It main contain certain bugs, of course report every bug please.
+It may contain certain bugs, make sure to report every bug please.
 
 Gameplay
 Use the W and S for player 1 and UP and Down arrows for player 2 to move your paddle up and down.
